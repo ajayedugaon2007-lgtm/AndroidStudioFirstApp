@@ -1,0 +1,4 @@
+storePassword=ajay26
+keyPassword=ajay26
+keyAlias=upload
+storeFile=upload-keystore.jks
